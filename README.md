@@ -13,13 +13,13 @@ PC_UDP_client
 You will have to start the client running on the PC first, then start the Android app.
 
 
-============
 Requirements
-============
+------------
+
 App:
-Android 2.2
-IOIO libraries
+- Android 2.2
+- IOIO libraries
 
 PC client:
-Java Slick 2D library
+- Java Slick 2D library
 
