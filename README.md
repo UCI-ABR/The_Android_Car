@@ -13,7 +13,7 @@ PC_UDP_client
 You will have to start the client running on the PC first, then start the Android app.
 
 For more information, go to:
-http://www.socsci.uci.edu/~jkrichma/CARL/ABR_web/ABR.html
+http://www.socsci.uci.edu/~jkrichma/ABR/index.html
 
 
 Requirements
